@@ -1,0 +1,17 @@
+#view  {
+    display: flex;
+    padding: 1em 0 0 0;
+}
+
+.product {
+    width: auto;
+}
+
+.cart {
+    width: 20%;
+    margin-left: auto;
+    margin-right: 0;
+    align-self: center;
+    padding: 0 0 0 1em;
+}
+

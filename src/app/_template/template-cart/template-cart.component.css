@@ -1,0 +1,23 @@
+#cart {
+    box-shadow: lightgray 2px 2px 2px 2px;
+}
+
+.price-net {
+    font-size: medium;
+}
+
+.price-tax {
+    font-size: small;
+}
+
+.price-total {
+    font-size: large;
+    font-weight: bold;
+}
+
+.order {
+    background-color: var(--red);
+    color: var(--white);
+    padding: 1em;
+    text-align: center;
+}

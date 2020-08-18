@@ -1,0 +1,35 @@
+#header section{
+    background-color: var(--red);
+    color: var(--white);
+    display: table-row;
+    width: 100%;
+}
+
+#header .header-main{
+    display: flex;
+}
+
+.header-main img {
+    width: 20%;
+    height: auto;
+    padding: 1em;
+}
+
+.header-main div {
+    font-weight: bold;
+    font-size: large;
+    align-self: center;
+    padding: 1em;
+}
+
+#header .header-menu {
+    display: flex;
+}
+
+.header-menu div {
+    padding: 0 3em 1em 1em;
+}
+
+.isActive {
+    font-weight: bold;
+}
